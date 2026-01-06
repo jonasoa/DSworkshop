@@ -9,5 +9,3 @@ Input from local repository to be pushed to remote repository using RStudio/VS C
 Input from remote repository to be pulled to local repository using IDE.
 
 Input from local repository to be amended, the content is the same, only the commit message is amended.
-
-Input from local repo to be reverted. The content will be gone but the commit stays in the history
